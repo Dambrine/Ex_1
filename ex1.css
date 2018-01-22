@@ -1,0 +1,29 @@
+li{
+	display: inline;
+	font-weight: 2px;
+}
+
+
+
+ul a{
+	text-decoration: none;
+	color: red;
+}
+ul a{
+	text-decoration: none;
+	color: black;
+}
+ul{
+	line-height: normal;
+	
+}
+form li{
+	margin-bottom: 20px;
+	}
+textarea{
+	width: 200px;
+	height: 100px;
+}
+label{
+	display: block;
+}
